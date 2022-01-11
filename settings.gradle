@@ -1,0 +1,3 @@
+rootProject.name='ContactSyncSdk'
+include ':ContactSdk'
+include ':myapplication'
